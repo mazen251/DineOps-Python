@@ -32,7 +32,7 @@ While the Unity-powered solution is available in this [GitHub repository]().
 
 ## System Architecture
 
-![System UI](gitAssets/DineOps.png)
+![System UI](gitAssets/DineOpsw.png)
 
 ## Technologies and Tools
 
