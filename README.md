@@ -14,7 +14,7 @@
 7. [Results](#results)
 8. [Conclusion](#conclusion)
 9. [Contact](#contact)
-10. [Acknowledgment](#acknowledgment)
+10. [Acknowledgment](#acknowledgments)
 
 ## Overview
 
@@ -26,7 +26,7 @@
 
 This repository focuses exclusively on the Python-based navigation component of the DineOps system. 
 
-The TUIO Object Markers with C# version can be found in this [GitHub repository]().
+The TUIO Object Markers with C# version can be found in this [GitHub repository](https://github.com/mazen251/DineOps-C.git).
 
 While the Unity-powered solution is available in this [GitHub repository]().
 
